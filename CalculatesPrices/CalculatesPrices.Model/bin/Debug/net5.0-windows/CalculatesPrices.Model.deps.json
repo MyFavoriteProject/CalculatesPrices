@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CalculatesPrices.Model/1.0.0": {
+        "runtime": {
+          "CalculatesPrices.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculatesPrices.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

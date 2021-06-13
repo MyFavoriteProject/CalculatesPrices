@@ -1,0 +1,12 @@
+C:\Users\home\source\repos\CalculatesPrices\CalculatesPrices\CalculatesPrices\CalculatesPrices.Model\bin\Debug\net5.0-windows\CalculatesPrices.Model.deps.json
+C:\Users\home\source\repos\CalculatesPrices\CalculatesPrices\CalculatesPrices\CalculatesPrices.Model\bin\Debug\net5.0-windows\CalculatesPrices.Model.dll
+C:\Users\home\source\repos\CalculatesPrices\CalculatesPrices\CalculatesPrices\CalculatesPrices.Model\bin\Debug\net5.0-windows\ref\CalculatesPrices.Model.dll
+C:\Users\home\source\repos\CalculatesPrices\CalculatesPrices\CalculatesPrices\CalculatesPrices.Model\bin\Debug\net5.0-windows\CalculatesPrices.Model.pdb
+C:\Users\home\source\repos\CalculatesPrices\CalculatesPrices\CalculatesPrices\CalculatesPrices.Model\obj\Debug\net5.0-windows\CalculatesPrices.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\home\source\repos\CalculatesPrices\CalculatesPrices\CalculatesPrices\CalculatesPrices.Model\obj\Debug\net5.0-windows\CalculatesPrices.Model.AssemblyInfoInputs.cache
+C:\Users\home\source\repos\CalculatesPrices\CalculatesPrices\CalculatesPrices\CalculatesPrices.Model\obj\Debug\net5.0-windows\CalculatesPrices.Model.AssemblyInfo.cs
+C:\Users\home\source\repos\CalculatesPrices\CalculatesPrices\CalculatesPrices\CalculatesPrices.Model\obj\Debug\net5.0-windows\CalculatesPrices.Model.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\CalculatesPrices\CalculatesPrices\CalculatesPrices\CalculatesPrices.Model\obj\Debug\net5.0-windows\CalculatesPrices.Model.dll
+C:\Users\home\source\repos\CalculatesPrices\CalculatesPrices\CalculatesPrices\CalculatesPrices.Model\obj\Debug\net5.0-windows\ref\CalculatesPrices.Model.dll
+C:\Users\home\source\repos\CalculatesPrices\CalculatesPrices\CalculatesPrices\CalculatesPrices.Model\obj\Debug\net5.0-windows\CalculatesPrices.Model.pdb
+C:\Users\home\source\repos\CalculatesPrices\CalculatesPrices\CalculatesPrices\CalculatesPrices.Model\obj\Debug\net5.0-windows\CalculatesPrices.Model.csprojAssemblyReference.cache
